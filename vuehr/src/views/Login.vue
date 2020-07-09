@@ -86,7 +86,7 @@
         width: 350px;
         padding: 15px 35px 15px 35px;
         background: #fff;
-        border: 1px solid #eaeaea;
+        border: 1px solid #cd3c3c;
         box-shadow: 0 0 25px #cac6c6;
     }
 
